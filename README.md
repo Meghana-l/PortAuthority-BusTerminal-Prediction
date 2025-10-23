@@ -1,5 +1,13 @@
 # 🚍 Port Authority Bus Terminal Passenger Prediction (2025–2030)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=power-bi&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![University of New Haven](https://img.shields.io/badge/University%20of%20New%20Haven-0033A0?style=for-the-badge&logo=university&logoColor=white)
+
+
 ### 📊 University of New Haven – Pompea College of Business  
 **Course:** BANL-6430-03 – Database Management for Business Analytics  
 **Instructor:** Dr. Pindaro Demertzoglou  
@@ -171,4 +179,17 @@ Each cluster is color-coded to indicate operational risk.
 - Scripted the final presentation and summarized insights.  
 
 **Ayesha Kabir**  
-- Validated data quality and assisted in dashboard testing.  
+- Validated data quality and assisted in dashboard testing.
+
+---
+
+## 🏁 Conclusion
+
+This project demonstrates how **data engineering, predictive analytics, and visualization** can improve **transportation operations**.  
+The insights provide a foundation for **strategic maintenance**, **capacity planning**, and **passenger forecasting** at the Port Authority Bus Terminal.
+
+---
+
+## 🧾 License
+
+This work is part of the BANL-6430 course at the University of New Haven and is intended for academic and portfolio use only.
