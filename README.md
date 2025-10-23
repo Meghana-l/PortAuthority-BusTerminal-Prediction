@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![University of New Haven](https://img.shields.io/badge/University%20of%20New%20Haven-0033A0?style=for-the-badge&logo=university&logoColor=white)
+
 
 
 ### 📊 University of New Haven – Pompea College of Business  
