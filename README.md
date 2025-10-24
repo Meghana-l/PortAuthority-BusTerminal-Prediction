@@ -9,7 +9,7 @@
 
 
 ### 📊 University of New Haven – Pompea College of Business  
-**Course:** BANL-6430-03 – Database Management for Business Analytics  
+**Course:** BANL-6430-03 – Database Management for Business Analytics (Feb 2025 - May 2025)
 **Instructor:** Dr. Pindaro Demertzoglou  
 **Team Members:**  
 - Meghana Lakshminarayana Swamy  
